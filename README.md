@@ -21,4 +21,4 @@ The page follows the current preprint. Main table averages exclude the benchmark
 - Canonical website: https://safety-midtraining.github.io/
 - Source mirror: https://github.com/ZhengyueZhao/safety-midtraining
 - Deployment repository: https://github.com/safety-midtraining/safety-midtraining.github.io
-- Paper: public/paper/safety-midtraining-preprint.pdf
+- Paper link: add the arXiv URL once available; no manuscript PDF is hosted here.
