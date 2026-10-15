@@ -189,3 +189,9 @@ img { display: block; max-width: 100%; height: auto; }
   .button.is-dark { border-color: #777; color: #222; background: #fff; }
   section, figure, table { break-inside: avoid; }
 }
+
+/* Expanded preprint comparisons. */
+.result-details { margin: 1.5rem 0; }
+.result-details summary { cursor: pointer; font-weight: 600; padding: 0.75rem 0; }
+.result-details .table { min-width: 1000px; }
+.table .ours-row td { background: #eaf3f8; font-weight: 600; }

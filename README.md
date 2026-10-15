@@ -13,3 +13,12 @@ The static website is served from `index.html` and is designed for GitHub Pages.
 - Reasoning dataset: https://huggingface.co/datasets/Ethan271/midtrain-reasoning-data
 - Models: https://huggingface.co/Ethan271
 
+
+## Publication source
+
+The page follows the current preprint. Main table averages exclude the benchmark sources listed in the evaluation note. Full-suite plots retain the scope shown in the paper. Table values are transcribed from the preprint LaTeX tables.
+
+- Canonical website: https://safety-midtraining.github.io/
+- Source mirror: https://github.com/ZhengyueZhao/safety-midtraining
+- Deployment repository: https://github.com/safety-midtraining/safety-midtraining.github.io
+- Paper: public/paper/safety-midtraining-preprint.pdf
