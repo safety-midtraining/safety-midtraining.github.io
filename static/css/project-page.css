@@ -115,8 +115,8 @@ img { display: block; max-width: 100%; height: auto; }
 .publication-figure { margin: 1.75rem auto 0; }
 .publication-figure img { width: 100%; margin: 0 auto; }
 .figure-wide { max-width: 900px; }
-.figure-medium { max-width: 720px; }
-.figure-compact { max-width: 650px; }
+.figure-medium { max-width: 520px; }
+.figure-compact { max-width: 480px; }
 .figure-panorama { max-width: 920px; }
 .figure-pair { max-width: 900px; margin: 1.75rem auto 0; }
 .figure-pair .publication-figure { max-width: 430px; margin-top: 0; }
